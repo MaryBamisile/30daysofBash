@@ -53,7 +53,7 @@ Finally, a Bash script that automates the creation of the directory structure
 ![day3 2](https://github.com/user-attachments/assets/2a6e88a8-be65-4f6a-aca3-d9e32c394107)
 
 
-3. Created an array of your favorite books. Write a script that prints out each book on a new line, preceded by its index in the array.
+3. Created an array of my favorite books. And then a script that prints out each book on a new line, preceded by its index in the array.
 ![day3 3](https://github.com/user-attachments/assets/393a1b77-4b34-4a5d-ab58-c92da98735c9)
 
 
