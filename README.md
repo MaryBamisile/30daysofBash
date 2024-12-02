@@ -61,8 +61,36 @@ Finally, a Bash script that automates the creation of the directory structure
    
 ![day3 4](https://github.com/user-attachments/assets/b4f4e7b3-8a3f-4b26-a3af-b4f9495782b7)
 
-
 5. Created a script that demonstrates the use of special variables. For example, it could print the script name, the number of arguments passed to it, and all the arguments.
 
 ![day3 5](https://github.com/user-attachments/assets/b68edcf1-eb11-4b7c-b592-ee8564a28ea3)
+
+
+### DAY 4 Learning Achievements:
+#### In today’s learning, I learnt about using control flow structures in making decisions in scripts and focusing on “if statements” and test commands [ ], which are fundamental to creating conditional logic in Bash scripts.
+
+Overall, I wrote scripts to:
+
+1️⃣ Check if a number is positive, negative, or zero.
+
+![image](https://github.com/user-attachments/assets/d34c8db4-5efd-4c28-b440-e37e288301b5)
+
+2️⃣ Verify if a file exists, print its contents, or create it with default text.
+
+
+3️⃣ Compare two numbers from the CLI: greater, less, or equal?
+
+
+4️⃣ Check if you have write permissions for a file.
+
+
+5️⃣ Grant or deny access based on name & age!
+
+
+
+
+
+
+
+
 
