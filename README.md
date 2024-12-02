@@ -76,9 +76,11 @@ Overall, I wrote scripts to:
 ![image](https://github.com/user-attachments/assets/d34c8db4-5efd-4c28-b440-e37e288301b5)
 
 2️⃣ Verify if a file exists, print its contents, or create it with default text.
+![day4 2](https://github.com/user-attachments/assets/f7399b63-1ebd-4ff7-b6cf-edb8bd38355d)
 
 
 3️⃣ Compare two numbers from the CLI: greater, less, or equal?
+![image](https://github.com/user-attachments/assets/65fd2cbc-2b7c-48bc-afee-2f7e3d5cb054)
 
 
 4️⃣ Check if you have write permissions for a file.
