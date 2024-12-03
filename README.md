@@ -94,9 +94,32 @@ Overall, I wrote scripts to:
 
 ![image](https://github.com/user-attachments/assets/e6445367-8207-4c3b-9144-0694260c3b5f)
 
+### Day 5: I learnt about For and while loop used to execute a block of code repeatedly. Here are the exciting take home scripts to showcase my learning and also the versatility of Bash:
+
+#### Highlights
+
+1️⃣ A user-input-driven script that generates a multiplication table using a for loop.
+
+![image](https://github.com/user-attachments/assets/c525e1ed-3ba8-48fa-9197-2e678897ab0d)
+
+2️⃣ Leveraging a while loop to create a simple game where the user guesses a randomly generated number between 1 and 10. 
+
+![image](https://github.com/user-attachments/assets/30f5b49e-e894-4760-b2b8-3330bb3a334e)
 
 
+3️⃣ Using a for loop to iterate through all files in the current directory, displaying their names and sizes—a handy tool for file management. 
 
+![day5 3](https://github.com/user-attachments/assets/6be10337-a2a1-41fe-81a1-308f63f0287b)
+
+4️⃣ A while loop-based script to compute the factorial of any user-inputted number. Great for mathematical enthusiasts! 
+
+![day5 4](https://github.com/user-attachments/assets/dd8dc094-6324-4f86-92bc-084be14f63b4)
+
+5️⃣ Nested for loops to generate a complete multiplication table for numbers 1 through 5—a practical approach to structured data representation. 
+
+![image](https://github.com/user-attachments/assets/a4b6824e-e645-448a-80aa-b65171f1cbf7)
+
+These exercises have not only strengthened my understanding of loops, conditionals, and command-line tools but also highlighted how scripting can simplify complex tasks.
 
 
 
