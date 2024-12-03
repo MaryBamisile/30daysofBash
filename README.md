@@ -96,7 +96,7 @@ Overall, I wrote scripts to:
 
 ### Day 5: I learnt about For and while loop used to execute a block of code repeatedly. Here are the exciting take home scripts to showcase my learning and also the versatility of Bash:
 
-#### Highlights
+#### Highlights of my learning:
 
 1️⃣ A user-input-driven script that generates a multiplication table using a for loop.
 
