@@ -12,6 +12,7 @@ Learning achievement for day 1:
 3. Creates three empty files named "file1.txt", "file2.txt", and "file3.txt"
 4. Lists the contents of the directory
 5. Prints a message saying "Project setup complete!"
+6. 
 
 ### Screenshots: 
 ![image](https://github.com/user-attachments/assets/52a28458-e7a5-4644-a765-731d1a768351)
