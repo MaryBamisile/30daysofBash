@@ -42,7 +42,15 @@ Finally, a Bash script that automates the creation of the directory structure
 
 ![day2 5](https://github.com/user-attachments/assets/e3892439-32bf-46d8-b340-9c8700641b6f)
 
-### DAY 3 Learning Achievements:
+### DAY 3: I learnt the special variables
+$0: The name of the script
+$1, $2, etc.: Command-line arguments passed to the script
+$#: The number of command-line arguments
+$@: All command-line arguments
+$?: The exit status of the last command
+$$: The process ID of the current script
+
+##### Learning Achievements:
 
 1. Created a script that asks for the user's name and age, stores them in variables, and then prints a greeting including this information.
 ![day3 1](https://github.com/user-attachments/assets/867e8a4a-bb0e-4c9f-a94b-5c6094ab5cfa)
