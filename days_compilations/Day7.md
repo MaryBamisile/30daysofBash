@@ -2,8 +2,8 @@
 
 A basic Bash script typically follows this structure:
 
-Shebang
-Comments/Documentation
-Global variables
-Functions
-Main script logic
+1. Shebang
+2. Comments/Documentation
+3. Global variables
+4. Functions
+5. Main script logic
