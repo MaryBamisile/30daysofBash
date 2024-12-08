@@ -113,3 +113,10 @@ done
 
 echo "Script execution completed."
 echo "Script execution completed." >> "$LOG_FILE"
+```
+
+
+#### OUTPUT
+
+![image](https://github.com/user-attachments/assets/715025b2-b2a4-45bf-bbf6-1ace3a895a69)
+
