@@ -17,10 +17,12 @@ Today, I explored how to define, call, and work with functions in Bash scripts. 
 
 
 4. A function that takes a filename as an argument and prints the number of lines, words, and characters in the file. Use this function to analyze multiple files in a script.
+   
 ![Day6 4](https://github.com/user-attachments/assets/2c016e5a-9381-412a-a6a5-52e696ddb400)
 
 
 5. A script with a function that generates a random password. The function should accept the password length as an argument and use a mix of uppercase, lowercase, numbers, and special characters.
+   
 ![day6 5](https://github.com/user-attachments/assets/0b2ac43c-99fc-4d01-84fa-b9d9d7d4cf17)
 
 
