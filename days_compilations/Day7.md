@@ -1,4 +1,4 @@
-#### Bash structure
+#### Learning about Bash structure
 
 A basic Bash script typically follows this structure:
 
