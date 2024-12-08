@@ -7,6 +7,18 @@ A basic Bash script typically follows this structure:
 3. Global variables
 4. Functions
 5. Main script logic
+
+#### Day 7 Learning achievment:
+##### Wrote a script to: 
+1. Accept a user's name as a command-line argument and include it in the greeting.
+2. Add error handling to the count_down function to ensure the input is a positive integer.
+3. Create a new function that generates a random number between 1 and 10, and use it in the main script logic.
+4. Modify the script to log its output to a file in addition to displaying it on the screen.
+5. Add a menu system to your script, allowing the user to choose between different functions to execute.
+
+
+
+
 ```bash
 
 #!/bin/bash
