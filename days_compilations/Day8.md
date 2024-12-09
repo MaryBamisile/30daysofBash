@@ -12,7 +12,7 @@
 <li> 2>: Redirect stderr to a file
 <li> &>: Redirect both stdout and stderr to a file
 
-####### Overall, I was able to practice the usage by writing scripts with following details: 
+###### Overall, I was able to practice the usage by writing scripts with following details: 
 1. Takes user input and appends it to a file. If the file doesn't exist, create it.
 2. Reads a list of numbers from a file, sorts them, and writes the sorted list to a new file.
 3. Executes a command, redirects its output to a file, and also displays the output.
