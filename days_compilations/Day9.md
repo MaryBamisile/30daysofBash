@@ -109,3 +109,6 @@ country_to_lookup="Germany"
 echo "The capital of $country_to_lookup is ${capitals[$country_to_lookup]}"
 
 ```
+
+![image](https://github.com/user-attachments/assets/2dd886f2-617e-4d78-97de-677b6bda3f27)
+
