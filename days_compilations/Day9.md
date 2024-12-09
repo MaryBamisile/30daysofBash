@@ -66,6 +66,9 @@ input_array=("apple" "banana" "apple" "orange" "banana")
 unique_elements "${input_array[@]}"
 
 ```
+![image](https://github.com/user-attachments/assets/3a76ff7d-2beb-4782-97e4-85dec7497d75)
+
+
 ### Script 4
 ``` bash
 #!/bin/bash
