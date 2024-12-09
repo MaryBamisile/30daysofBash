@@ -1,6 +1,6 @@
 #### Input/Output Redirection
 
-####### Input/Output (I/O) redirection is a feature that allows you to control where input comes from and where output goes.I learnt about the three standard streams:
+###### Input/Output (I/O) redirection is a feature that allows you to control where input comes from and where output goes.I learnt about the three standard streams:
 1. Standard Input (stdin) - Stream for input, file descriptor 0
 2. Standard Output (stdout) - Stream for output, file descriptor 1
 3. Standard Error (stderr) - Stream for error messages, file descriptor 2
