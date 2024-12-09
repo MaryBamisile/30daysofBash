@@ -87,6 +87,7 @@ for line in "${lines[@]}"; do
     echo "${line^^}"
 done
 ```
+![image](https://github.com/user-attachments/assets/f2489fb6-9b0b-45be-8bb1-91a36964b30e)
 
 ### Script 5
 ``` bash
