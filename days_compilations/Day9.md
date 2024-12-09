@@ -62,7 +62,7 @@ unique_elements() {
 }
 
 # Example usage
-input_array=("apple" "banana" "apple" "orange" "banana")
+input_array=("Mary" "Don" "Joe" "Jane" "Rose")
 unique_elements "${input_array[@]}"
 
 ```
