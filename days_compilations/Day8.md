@@ -1,5 +1,10 @@
 #### Input/Output Redirection
 
+####### Input/Output (I/O) redirection is a feature that allows you to control where input comes from and where output goes.I learnt about the three standard streams:
+1. Standard Input (stdin) - Stream for input, file descriptor 0
+2. Standard Output (stdout) - Stream for output, file descriptor 1
+3. Standard Error (stderr) - Stream for error messages, file descriptor 2
+
 ###### Basic Redirection Operators
 <li> >: Redirect stdout to a file (overwrite)
 <li> >>: Redirect stdout to a file (append)
@@ -7,7 +12,12 @@
 <li> 2>: Redirect stderr to a file
 <li> &>: Redirect both stdout and stderr to a file
 
-
+####### Overall, I was able to practice the usage by writing scripts with following details: 
+1. Takes user input and appends it to a file. If the file doesn't exist, create it.
+2. Reads a list of numbers from a file, sorts them, and writes the sorted list to a new file.
+3. Executes a command, redirects its output to a file, and also displays the output.
+4. Uses a here document to generate a simple HTML file.
+5. Redirects errors to a log file, but still displays normal output on the screen.
 script1:
 
 ![image](https://github.com/user-attachments/assets/5de9639e-987e-4e66-9d4d-06bf75514e2c)
