@@ -17,6 +17,8 @@ for food in "${favorite_foods[@]}"; do
     echo "$food"
 done
 ```
+![image](https://github.com/user-attachments/assets/5cdf9d6c-8f15-4982-9f75-7bbdd7548232)
+
 
 script 2
 ```bash
@@ -35,6 +37,7 @@ for arg in "${args[@]}"; do
 done
 
 ```
+![image](https://github.com/user-attachments/assets/ee38d5ee-6ca5-4b1e-b129-d517e026db70)
 
 script 3
 ```bash
