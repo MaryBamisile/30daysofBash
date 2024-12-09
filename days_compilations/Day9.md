@@ -4,7 +4,7 @@
 
 
 
-script 1
+### Script 1
 ```bash
 
 #!/bin/bash
@@ -20,7 +20,7 @@ done
 ![image](https://github.com/user-attachments/assets/5cdf9d6c-8f15-4982-9f75-7bbdd7548232)
 
 
-script 2
+### Script 2
 ```bash
 
 #!/bin/bash
@@ -39,7 +39,7 @@ done
 ```
 ![image](https://github.com/user-attachments/assets/ee38d5ee-6ca5-4b1e-b129-d517e026db70)
 
-script 3
+### Script 3
 ```bash
 #!/bin/bash
 
@@ -66,7 +66,7 @@ input_array=("apple" "banana" "apple" "orange" "banana")
 unique_elements "${input_array[@]}"
 
 ```
-Script 4
+### Script 4
 ``` bash
 #!/bin/bash
 
@@ -85,7 +85,7 @@ for line in "${lines[@]}"; do
 done
 ```
 
-script 5
+### Script 5
 ``` bash
 #!/bin/bash
 
