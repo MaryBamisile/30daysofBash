@@ -104,7 +104,7 @@ read -p "Enter desired password length: " password_length
 generate_password "$password_length"
 
 ```
-
+Script5
 ```bash
 #!/bin/bash
 
